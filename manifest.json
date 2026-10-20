@@ -1,0 +1,45 @@
+{
+  "strategy": "Local files; optimized 96 kbps MP3 for GitHub Pages",
+  "files": [
+    {
+      "path": "audio/ertegi_01.mp3",
+      "original_file": "838653_1434953499.mp3",
+      "source_bytes": 4061390,
+      "site_bytes": 3045425,
+      "duration_seconds": 253.8,
+      "sha256": "42f79bebeb69e3d56b864d6f390de21115d1b9adc459bd6d664410f185adba34"
+    },
+    {
+      "path": "audio/ertegi_02.mp3",
+      "original_file": "631781_1434953290.mp3",
+      "source_bytes": 5040334,
+      "site_bytes": 3779570,
+      "duration_seconds": 314.9,
+      "sha256": "5ae61b80c6dfde57194f60a23ba3330f6f51dca807f515e31ad2d1f4b9f717d2"
+    },
+    {
+      "path": "audio/ertegi_03.mp3",
+      "original_file": "940643_1434953385.mp3",
+      "source_bytes": 2691278,
+      "site_bytes": 2017559,
+      "duration_seconds": 168.1,
+      "sha256": "7246bc31740ee848fae8f179fea9a9de712348677f9e70375ffb7c60762e9eba"
+    },
+    {
+      "path": "audio/ertegi_kustar.mp3",
+      "original_file": "kaz_skazka_kustar.mp3",
+      "source_bytes": 11780205,
+      "site_bytes": 3534097,
+      "duration_seconds": 294.5,
+      "sha256": "892265f2fe5a5150c90404667837596de7623655141204aff343ffaac5fef573"
+    },
+    {
+      "path": "audio/ertegi_zhaksylyk.mp3",
+      "original_file": "kaz_skazka_zhaksylyk_pen_zhamandyk.mp3",
+      "source_bytes": 19431405,
+      "site_bytes": 5829320,
+      "duration_seconds": 485.7,
+      "sha256": "4430975d95761951a4b22a8b2a6fe385cba0a294de3be4ef36cc8f321b8969ee"
+    }
+  ]
+}
